@@ -35,7 +35,7 @@ int main()
     cout << "round(3.4): " << round(3.4) << endl;
     cout << "floor(3.8): " << floor(3.8) << endl;
     cout << "maximum of 2 input numbers: fmax(3:10) --> "<< fmax(3, 10)<< endl;
-    cout << "minimum of 2 input numbers: fmin(3:10) --> "<< fmin(3, 10)<< endl;
+    cout << "minimum of 2 input numbers: fmin(3:10) --> "<< fmin(3, 10)<< endl; 
 
 
 
